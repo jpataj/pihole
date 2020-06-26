@@ -1,5 +1,5 @@
 # Overview
-This [repository] (https://github.com/jpataj/pihole) provides source files to build custom **Pi-hole docker images** which are based on [official docker Pi-hole](https://hub.docker.com/r/pihole/pihole) with addition to use [cloudflare DNS over HTTPs](https://docs.pi-hole.net/guides/dns-over-https/).
+This [repository](https://github.com/jpataj/pihole) provides source files to build custom **Pi-hole docker images** which are based on [official docker Pi-hole](https://hub.docker.com/r/pihole/pihole) with addition to use [cloudflare DNS over HTTPs](https://docs.pi-hole.net/guides/dns-over-https/).
 
 
 # How to run Docker Pi-hole for ARM (Rapsberry Pi)
